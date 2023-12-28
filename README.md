@@ -1,4 +1,5 @@
-# TUTORIAL GUYS
+# TUTORIAL GUYS 
+0. dOWNLOAD YANG ZIP
 1. npm install
 2. npm run dev
 
